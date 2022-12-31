@@ -74,10 +74,9 @@ Als je kies om PowerBI online te starten, log dan in met je HHS account. Je komt
 
 | Voor | Na |
 |--|--|
-|Top x|![image](https://user-images.githubusercontent.com/113904065/210151933-8f08b6c7-892a-4d81-ae3c-e66e112fae94.jpeg)|
-|dmfnwf|![image](https://user-images.githubusercontent.com/113904065/210151981-d9c9cc56-952a-4130-bbb0-81e61ea24001.jpeg)|
-|wefwrerw|![image](https://user-images.githubusercontent.com/113904065/210151988-54b08b1a-c3dd-45ee-92f8-ff36c38b0c0f.jpeg)|
-|Voorbeeld van een Pie grafiek|![image](https://user-images.githubusercontent.com/113904065/210152033-941b3ead-b36f-41a1-bcfe-175f214c4cd2.jpeg)|
+|![image](https://user-images.githubusercontent.com/113904065/210151933-8f08b6c7-892a-4d81-ae3c-e66e112fae94.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210151981-d9c9cc56-952a-4130-bbb0-81e61ea24001.jpeg)|
+|![image](https://user-images.githubusercontent.com/113904065/210151988-54b08b1a-c3dd-45ee-92f8-ff36c38b0c0f.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210152033-941b3ead-b36f-41a1-bcfe-175f214c4cd2.jpeg)|
+
 
 
 
