@@ -60,5 +60,5 @@ Verschillen datatype worden aangepast in dit dataframe zodat deze beter werken i
 |![image](https://user-images.githubusercontent.com/113904065/210148952-fdf793d4-432e-48c9-b1b3-b6dc13310bcc.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210148970-9f130ed7-d6a4-4af8-a5d4-174ae6a75331.jpeg)|
 
 
-Pandas schijft deze weg als xlsx bestand.
+Pandas schijft deze weg als xlsx bestand:
 ![image](https://user-images.githubusercontent.com/113904065/210149486-a3fc8c1c-19ea-4068-a5ad-20008a478850.jpeg)
