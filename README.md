@@ -17,7 +17,7 @@ Als eerste wordt er een python list gemaakt met faker. Voorbeeld van een lijst g
 ['Milo', 'Bleijenberg', datetime.date(2022, 11, 5), '(037) 4356874', 'Field trials officer', 'Boels', 'mullerloes@gmail.com', '632459189', 'NL87CGMV8980258984', '015', 'Juliehof', '4140EE', 'Tienray', 'Gelderland', 'DigitalNote', '€43,12', '2019', ('51.95838', '4.47124')]]
 ```
 
-Deze wordt dan omgezet naar een pandas dataframe.
+Deze wordt dan omgezet naar een pandas dataframe:
 ```
   Voornaam     Achternaam Geboortedatum    Telefoonnummer  \
 0   Casper  van Spreeuwel    1921-12-24     (0777) 687432   
@@ -54,7 +54,7 @@ Deze wordt dan omgezet naar een pandas dataframe.
 3       98985.47         1992    5.22778  51.95500  
 4          43.12         2019    4.47124  51.95838
 ```
-Verschillen datatype worden aangepast in dit dataframe zodat deze beter werken in Matplotlib en PowerBI:
+Verschillen datatype worden aangepast in dit dataframe zodat deze beter werken in Matplotlib/ PowerBI en wordt Geo(17) gesplits in Longitude(17) en Laditude(18):
 | Voor | Na |
 |--|--|
 |![image](https://user-images.githubusercontent.com/113904065/210148952-fdf793d4-432e-48c9-b1b3-b6dc13310bcc.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210148970-9f130ed7-d6a4-4af8-a5d4-174ae6a75331.jpeg)|
