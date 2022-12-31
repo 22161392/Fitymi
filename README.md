@@ -1,5 +1,5 @@
 # Fitymi (Fake it till you make it)
-Fitymi is bedoelt om een fake dataset te generenen in Python om deze vervolgens te kunnen gebruiken met Matplotlib en PowerBI.
+Fitymi is bedoelt om een fake dataset te genereren in Python om deze vervolgens te kunnen gebruiken met Matplotlib en PowerBI.
 Hiervoor wordt o.a. gebruik gemaakt van de volgende modules:
 
 1. faker
