@@ -59,6 +59,7 @@ Deze wordt dan omgezet naar een pandas dataframe:
 4          43.12         2019    4.47124  51.95838
 ```
 Verschillen datatype worden aangepast in dit dataframe zodat deze beter werken in Matplotlib/ PowerBI en wordt Geo(17) gesplits in Longitude(17) en Laditude(18):
+| Voor | Na |
 |--|--|
 |![image](https://user-images.githubusercontent.com/113904065/210148952-fdf793d4-432e-48c9-b1b3-b6dc13310bcc.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210148970-9f130ed7-d6a4-4af8-a5d4-174ae6a75331.jpeg)|
 
@@ -71,7 +72,6 @@ Als je kies om PowerBI online te starten, log dan in met je HHS account. Je komt
 
 ### 3. Visualiseer de dataset met matplotlib
 
-| Voor | Na |
 |--|--|
 |![image](https://user-images.githubusercontent.com/113904065/210151933-8f08b6c7-892a-4d81-ae3c-e66e112fae94.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210151981-d9c9cc56-952a-4130-bbb0-81e61ea24001.jpeg)|
 |![image](https://user-images.githubusercontent.com/113904065/210151988-54b08b1a-c3dd-45ee-92f8-ff36c38b0c0f.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210152033-941b3ead-b36f-41a1-bcfe-175f214c4cd2.jpeg)|
