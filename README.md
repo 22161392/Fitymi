@@ -79,4 +79,8 @@ Fitymi kan over de meeste kolommen een top x visualiseren in zowel een barh (hor
 |stap 3: ![image](https://user-images.githubusercontent.com/113904065/210151988-54b08b1a-c3dd-45ee-92f8-ff36c38b0c0f.jpeg)|Voorbeeld: ![image](https://user-images.githubusercontent.com/113904065/210152033-941b3ead-b36f-41a1-bcfe-175f214c4cd2.jpeg)|
 
 ### Genereer automatisch een dataset van 1000 rijen
-Voor ontwikkeling of een snelle demo is het handig om stap 1, 2 en 3 automatisch uit te voeren.
+Voor ontwikkeling of een snelle demo is het handig om stap 1, 2 en 3 automatisch uit te voeren (optie a).
+![image](https://user-images.githubusercontent.com/113904065/210152459-4c1fd93b-dc6b-41b4-adbc-842ffa68282e.jpeg)
+
+
+
