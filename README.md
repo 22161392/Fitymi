@@ -71,7 +71,7 @@ Als je kies om PowerBI online te starten, log dan in met je HHS account. Je komt
 ![image](https://user-images.githubusercontent.com/113904065/210151704-967b1884-84ea-4b88-8e49-bade8d85d34d.jpeg)
 
 ### 3. Visualiseer de dataset met matplotlib
-Fitymi kan over de meeste kolommen een top x visualiseren in zowel een barh (horizontale bar grafiek) en een pie grafiek.
+Fitymi kan over de meeste kolommen een top x visualiseren in zowel een horizontale bar grafiek (barh) en een pie grafiek (pie).
 
 | Aantal en kolom | Type en voorbeeld |
 |--|--|
