@@ -64,7 +64,7 @@ Verschillen datatype worden aangepast in dit dataframe zodat deze beter werken i
 |![image](https://user-images.githubusercontent.com/113904065/210148952-fdf793d4-432e-48c9-b1b3-b6dc13310bcc.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210148970-9f130ed7-d6a4-4af8-a5d4-174ae6a75331.jpeg)|
 
 ### 2. Open de dataset in Excel en start PowerBI online
-Pandas schijft deze weg als xlsx bestand en wordt automatisch geopend:
+Pandas schijft deze weg als xlsx bestand en wordt automatisch geopend in Excel:
 ![image](https://user-images.githubusercontent.com/113904065/210149486-a3fc8c1c-19ea-4068-a5ad-20008a478850.jpeg)
 
 Als je kies om PowerBI online te starten, log dan in met je HHS account. Je komt dan gelijk uit bij de file import:
