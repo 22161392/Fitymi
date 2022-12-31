@@ -54,7 +54,7 @@ Deze wordt dan omgezet naar een pandas dataframe.
 3       98985.47         1992    5.22778  51.95500  
 4          43.12         2019    4.47124  51.95838
 ```
-Verschillen datatype worden aangepast in dit dataframe:
+Verschillen datatype worden aangepast in dit dataframe zodat deze beter werken in Matplotlib en PowerBI:
 | Voor | Na |
 |--|--|
 |![image](https://user-images.githubusercontent.com/113904065/210148952-fdf793d4-432e-48c9-b1b3-b6dc13310bcc.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210148970-9f130ed7-d6a4-4af8-a5d4-174ae6a75331.jpeg)|
