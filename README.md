@@ -62,3 +62,8 @@ Verschillen datatype worden aangepast in dit dataframe zodat deze beter werken i
 
 Pandas schijft deze weg als xlsx bestand:
 ![image](https://user-images.githubusercontent.com/113904065/210149486-a3fc8c1c-19ea-4068-a5ad-20008a478850.jpeg)
+
+PowerBI import:
+![image](https://user-images.githubusercontent.com/113904065/210151704-967b1884-84ea-4b88-8e49-bade8d85d34d.jpeg)
+
+
