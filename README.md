@@ -7,6 +7,9 @@ Hiervoor wordt o.a. gebruik gemaakt van de volgende modules:
 3. matplotlib
 4. openpyxl
 
+Fitymi wordt via een menu aangestuurd:
+![image](https://user-images.githubusercontent.com/113904065/210151727-31a92e18-3d71-43de-b3b2-306481c6ad1b.jpeg)
+
 
 Als eerste wordt er een python list gemaakt met faker. Voorbeeld van een lijst gemaakt met faker:
 ```
