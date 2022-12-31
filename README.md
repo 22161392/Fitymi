@@ -1,6 +1,14 @@
 # Fitymi (Fake it till you make it)
 Fitymi is bedoelt om een fake dataset te generenen in Python om deze vervolgens te kunnen gebruiken met Matplotlib en PowerBI.
+Hiervoor wordt o.a. gebruik gemaakt van de volgende modules:
 
+1. faker
+2. pandas
+3. matplotlib
+4. openpyxl
+
+
+Als eerste wordt er een python list gemaakt met faker. Voorbeeld van een lijst gemaakt met faker:
 ```
 [['Casper', 'van Spreeuwel', datetime.date(1921, 12, 24), '(0777) 687432', 'Clinical cytogeneticist', 'Ouwel & Kronenberg', 'sophiavan-grinsven@anwb.com', '185497068', 'NL46WQKS8072829989', '573', 'Lisalaan', '5367HQ', 'Tiendeveen', 'Drenthe', 'Sirin Labs', '€84.449,72', '2001', ('52.09', '5.23333')],
 ['Dana', 'Willemsen', datetime.date(2004, 4, 10), '+31341-133602', 'Pension scheme manager', 'Ten Brinke Groep', 'nspies@kok.net', '427986151', 'NL03SDZZ8980172390', '3', 'Quintensteeg', '6208 RW', 'Vrouwenparochie', 'Drenthe', 'PotCoin', '€8,88', '2010', ('52.31333', '6.92917')], 
@@ -9,6 +17,7 @@ Fitymi is bedoelt om een fake dataset te generenen in Python om deze vervolgens 
 ['Milo', 'Bleijenberg', datetime.date(2022, 11, 5), '(037) 4356874', 'Field trials officer', 'Boels', 'mullerloes@gmail.com', '632459189', 'NL87CGMV8980258984', '015', 'Juliehof', '4140EE', 'Tienray', 'Gelderland', 'DigitalNote', '€43,12', '2019', ('51.95838', '4.47124')]]
 ```
 
+Deze wordt dan omgezet naar een pandas dataframe.
 ```
   Voornaam     Achternaam Geboortedatum    Telefoonnummer  \
 0   Casper  van Spreeuwel    1921-12-24     (0777) 687432   
@@ -45,7 +54,7 @@ Fitymi is bedoelt om een fake dataset te generenen in Python om deze vervolgens 
 3       98985.47         1992    5.22778  51.95500  
 4          43.12         2019    4.47124  51.95838
 ```
-
+Verschillen datatype worden aangepast in dit dataframe:
 | Voor | Na |
 |--|--|
 |![image](https://user-images.githubusercontent.com/113904065/210148952-fdf793d4-432e-48c9-b1b3-b6dc13310bcc.jpeg)|![image](https://user-images.githubusercontent.com/113904065/210148970-9f130ed7-d6a4-4af8-a5d4-174ae6a75331.jpeg)|
