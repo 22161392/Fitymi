@@ -7,8 +7,6 @@ Hiervoor wordt o.a. gebruik gemaakt van de volgende modules:
 3. matplotlib
 4. openpyxl
 
-![video](https://github.com/22161392/Fitymi/blob/main/BingoBit.mp4)
-
 Fitymi wordt via een menu aangestuurd. Belangrijk hierbij is dat stap 1 altijd moet worden uitgevoerd.
 ![image](https://user-images.githubusercontent.com/113904065/210151727-31a92e18-3d71-43de-b3b2-306481c6ad1b.jpeg)
 
